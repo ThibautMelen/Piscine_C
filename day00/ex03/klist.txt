@@ -1,0 +1,6 @@
+Credentials cache: API:16820878-D672-401B-B202-644A0C5D85F8
+        Principal: thmelen@42.FR
+
+  Issued                Expires               Principal
+Feb  5 12:38:34 2018  Feb 12 12:38:34 2018  krbtgt/42.FR@42.FR
+Feb  5 13:04:19 2018  Feb 12 12:38:34 2018  host/vgs-fn1.42.fr@42.FR
